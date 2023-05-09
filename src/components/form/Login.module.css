@@ -1,0 +1,38 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+    /* width: 700px; */
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+   
+
+}
+
+.wrap h3{
+    color: black
+}
+.button{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color:orangered;
+    color: white;  
+}
+
+
+
+
+.email{
+
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.password{
+    margin: 10px;
+    border-radius: 10px;
+    
+    padding: 10px;
+}

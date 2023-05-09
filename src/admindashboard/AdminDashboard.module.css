@@ -1,0 +1,57 @@
+.myadmin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .question {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000;
+    padding: 20px;
+    width: 70%;
+  }
+  
+  .question input {
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .question button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .question button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .result {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000;
+    padding: 20px;
+    width: 70%;
+  }
+  
+  .result h2 {
+    margin-bottom: 10px;
+  }
+  

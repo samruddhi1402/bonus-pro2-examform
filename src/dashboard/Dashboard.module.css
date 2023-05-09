@@ -1,0 +1,39 @@
+.button1{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color:orangered;
+    color: white; 
+   
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+
+.button2{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color:orangered;
+    color: white; 
+   
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    /* width: 700px; */
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
